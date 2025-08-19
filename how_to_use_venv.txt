@@ -1,0 +1,7 @@
+PowerShell
+1.   Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process -Force
+2.  .\venv\Scripts\Activate.ps1
+
+cmd
+venv\Scripts\Activate
+Deactivate
